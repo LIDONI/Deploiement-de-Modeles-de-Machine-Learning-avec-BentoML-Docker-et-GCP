@@ -1,0 +1,13 @@
+service: "service:svc"
+labels:
+  owner: khalid
+  project: energy-prediction
+include:
+  - "*.py"
+  - "requirements.txt"
+python:
+  packages:
+    - scikit-learn
+    - xgboost
+    - pandas
+    - bentoml

@@ -1,0 +1,32 @@
+# Ignorer les environnements virtuels
+env/
+venv/
+.venv/
+
+# Ignorer les fichiers lourds
+*.mp4
+*.dll
+*.lib
+*.pkl
+*.h5
+
+# Ignorer caches Python
+__pycache__/
+*.pyc
+*.pyo
+# Ignorer les environnements virtuels
+env/
+venv/
+.venv/
+
+# Ignorer les fichiers lourds
+*.mp4
+*.dll
+*.lib
+*.pkl
+*.h5
+
+# Ignorer caches Python
+__pycache__/
+*.pyc
+*.pyo
