@@ -63,5 +63,7 @@ Ce projet s’inscrit dans une démarche de **valorisation de la donnée urbaine
 Data Analyst & Data Engineer 
 
 Email : khalidouroadoyi@gmail.com
-LinkedIn :(https://www.linkedin.com/in/khalid-ouro-adoyi/) | 
+
+LinkedIn :(https://www.linkedin.com/in/khalid-ouro-adoyi/) |
+
 [GitHub](https://github.com/LIDONI)
