@@ -39,13 +39,21 @@ Ce projet s’inscrit dans une démarche de **valorisation de la donnée urbaine
 ## Structure du projet
 
 ├── Dockerfile # Image Docker pour le déploiement
+
 ├── bentofile.yaml # Configuration BentoML du service
+
 ├── energy_pred.ipynb # Notebook d'analyse et d'entraînement du modèle
+
 ├── import_model.py # Script d'import et d'enregistrement du modèle
+
 ├── service.py # Service BentoML exposant l'API de prédiction
+
 ├── input.json # Exemple de requête d'entrée
+
 ├── requirements.txt # Dépendances Python
+
 ├── README.md # Ce fichier 
+
 └── .gitignore
 
 
@@ -56,4 +64,4 @@ Data Analyst & Data Engineer
 
 Email : khalidouroadoyi@gmail.com
 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
-) | [GitHub](https://github.com/LIDONI)
+ | [GitHub](https://github.com/LIDONI)
