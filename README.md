@@ -60,7 +60,8 @@ Ce projet s’inscrit dans une démarche de **valorisation de la donnée urbaine
 ## Auteur
 
 👤 Khalid OURO-ADOYI
-Data Analyst & Data Engineer 
+
+(**Data Analyst & Data Engineer**) 
 
 Email : khalidouroadoyi@gmail.com
 
