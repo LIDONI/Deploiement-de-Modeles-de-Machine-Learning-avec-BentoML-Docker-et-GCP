@@ -57,11 +57,11 @@ Ce projet s’inscrit dans une démarche de **valorisation de la donnée urbaine
 └── .gitignore
 
 
-Auteur
+## Auteur
 
 👤 Khalid OURO-ADOYI
 Data Analyst & Data Engineer 
 
 Email : khalidouroadoyi@gmail.com
-[LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
- | [GitHub](https://github.com/LIDONI)
+LinkedIn :(https://www.linkedin.com/in/khalid-ouro-adoyi/) | 
+[GitHub](https://github.com/LIDONI)
